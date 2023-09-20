@@ -1,4 +1,4 @@
-# Analysis on International Food Consumer Price Patters Over-Time
+# Analysis on International Food Consumer Price Patterns Over-Time
 
 This project serves as a simple data analysis on food consumer price trends from 2000 to 2022 using 4 randomly selected countries. I decided to use the data due to my casual lifelong interest in countries themselves. The four countries I used were China, Dominica, Lithuania, and Switzerland. These countries were chosen using a randomized country [generator](https://random.country/). I used this method because it is similar to getting a random sample.
 
