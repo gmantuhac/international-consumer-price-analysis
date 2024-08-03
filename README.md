@@ -17,7 +17,7 @@ The purpose of doing this project was to gain a proficient understanding in:
   -  Checking for unnecessary Null-values
 - Using packages in Python
   - mysql, numpy, maplotlib
-- Univariate exploratory data analysis
+- Bivariate exploratory data analysis
 
 I created a [Google Doc](https://docs.google.com/document/d/197OT6UtGHxVGGiH3_0AEhvGZ4uQXju0cs5PN_qDE04E/edit?usp=sharing) that shares my experience everyday during the process of this project. This doc shows a raw experience of my processes and difficulties during the extent of this project. Each day, when worked on this project, was about an average of two hours. In my last project, I mentioned that I wanted to be more productive for future projects. That was not achieved in this project; however, I still aspire and strive to improve myself with each pressing step.
 
