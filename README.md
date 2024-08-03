@@ -21,11 +21,11 @@ The purpose of doing this project was to gain a proficient understanding in:
 
 I created a [Google Doc](https://docs.google.com/document/d/197OT6UtGHxVGGiH3_0AEhvGZ4uQXju0cs5PN_qDE04E/edit?usp=sharing) that shares my experience everyday during the process of this project. This doc shows a raw experience of my processes and difficulties during the extent of this project. Each day, when worked on this project, was about an average of two hours. In my last project, I mentioned that I wanted to be more productive for future projects. That was not achieved in this project; however, I still aspire and strive to improve myself with each pressing step.
 
-![China](https://cdn.discordapp.com/attachments/938667785679147030/1154188809072807966/wdQjccOcvYAKAAAAABJRU5ErkJggg.png)
-![Dominica](https://cdn.discordapp.com/attachments/938667785679147030/1154188886331899914/IDXr18jOzvboT9aqNFo8NNPP6G6uhparRYzZ86EyWRyHWJyDlU0vEhOBEREZEb4j07RERE5NbY7BAREZFbY7NDREREbo3NDhEREbk1NjtERETk1tjsEBERkVtjs0NERERujc0OERERuTU2O0REROTW2OwQERGRW2OzQ0RERG6NzQ4RERG5tX8AFSAkukvSQ34AAAAASUVORK5CYII.png)
-![Lithuania](https://cdn.discordapp.com/attachments/938667785679147030/1154188911380267028/sEBERkVdjsUNERERejcUOEREReTUWO0REROTVWOwQERGRV2OxQ0RERF6NxQ4RERF5NRY7RERE5NVY7BAREZFXY7FDREREXo3FDhEREXk1FjtERETk1f4BM81YZGrZtkYAAAAASUVORK5CYII.png)
-![Switzerland](https://cdn.discordapp.com/attachments/938667785679147030/1154188969299427349/ljFkd7mmhjUAAAAASUVORK5CYII.png)
-![All Countries](https://cdn.discordapp.com/attachments/938667785679147030/1154188999729094666/cY9OnT6ewsJC77rqLw4cP07lzZ5YtW0b9vXdvv6gQYNYuHAhV199NYcOHWLOnDluTT4WFhbGhAkT2LVrF7Vr16Znz54sWLDA7dcVEd9RuSEV4TBFDZ0iIiIiAUh9dkRERCSgKdkRERGRgKZkR0RERAKakh0REREJaEp2REREJKAp2REREZGApmRHREREApqSHREREQloSnZEREQkoCnZERERkYCmZEdEREQC2v8HkNKNhgxYbDIAAAAASUVORK5CYII.png)
+![China](https://drive.google.com/file/d/1f07eTBCLcqrQpfrcM-LzdetgG76yHD2X/view?usp=sharing)
+![Dominica](https://drive.google.com/file/d/1rxgmM9zYWf9bIi7q1C3cSCim-4MsKYZg/view?usp=sharing)
+![Lithuania](https://drive.google.com/file/d/1r7PmHTZlhTrt-hnu36EaAup9dHA1ashu/view?usp=sharing)
+![Switzerland](https://drive.google.com/file/d/18OMPDEQdf3VkXBiY7DtlA02ohDtpUoO2/view?usp=sharing)
+![All Countries](https://drive.google.com/file/d/1dO1DhalK3nuvlYBIx0piDPiH0dQahtqP/view?usp=sharing)
 
 In each plot, the y-axis represents the consumer price. The x-axis represents each month starting from 01/2000. So 2 on the x-axis represents 03/2000. The first plotted line represents each the line created after using each consumer price data point. The red line represents the general trend for the first plotted line. Based on the data and plots given, it seems like each country **does not** grow at a relatively similar rate. For example, Switzerland, compared to other countries, tends to barely grow at all compared to the other countries. Is this due to geography (which I am leaning towards) or politics? Switzerland is also known to generally be a really expensive country. I am curious. Another example is Lithuania who, initially seems like the general trend grows similarily to China and Dominica, has an outlying spike in consumer price nearing 2022. Did Lituania have a huge spike in inflation? Or a somesort crash in the economy? Very curious. 
 
